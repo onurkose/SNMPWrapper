@@ -17,5 +17,6 @@
         "psr-4": {
             "OnurKose\\SNMPWrapper\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
