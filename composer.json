@@ -1,0 +1,16 @@
+{
+    "name": "onurkoseeski/snmp-wrapper",
+    "description": "Nelisys Snmp package wrapper",
+    "type": "laravel",
+    "require": {
+        "nelisys/snmp": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Onur Kose",
+            "email": "kose.onur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
