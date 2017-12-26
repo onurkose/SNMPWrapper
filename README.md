@@ -1,6 +1,10 @@
 # SNMPWrapper
 Laravel SNMP package wrapper for Nelisys/Snmp class
 
+## Requirements
+
+Requires: [Nelisys/Snmp](https://github.com/nelisys/snmp) and net-snmp-utils
+
 ## Installation
 Install via Composer.
 ```
@@ -61,3 +65,6 @@ Array
     [.1.3.6.1.2.1.1.1.0] => LigoDLB 5-20n v7.57.51319
 )
 ```
+
+## License
+Laravel SNMPWrapper is open-sourced software licensed under the [MIT license](LICENSE).
