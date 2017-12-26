@@ -18,5 +18,12 @@
             "OnurKose\\SNMPWrapper\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OnurKose\\SNMPWrapper\\SNMPWrapperServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "stable"
 }
