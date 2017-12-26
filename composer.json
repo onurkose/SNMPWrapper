@@ -3,6 +3,7 @@
     "description": "Laravel SNMP wrapper for Nelisys/Snmp class",
     "type": "laravel",
     "require": {
+        "php": ">=7.0.0",
         "nelisys/snmp": "^1.0"
     },
     "license": "MIT",
@@ -12,5 +13,9 @@
             "email": "kose.onur@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "autoload": {
+        "psr-4": {
+            "OnurKose\\SNMPWrapper\\": "src/"
+        }
+    }
 }
