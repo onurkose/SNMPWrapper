@@ -1,6 +1,6 @@
 {
-    "name": "onurkoseeski/snmp-wrapper",
-    "description": "Nelisys Snmp package wrapper",
+    "name": "onurkose/snmp-wrapper",
+    "description": "Laravel SNMP wrapper for Nelisys/Snmp class",
     "type": "laravel",
     "require": {
         "nelisys/snmp": "^1.0"
